@@ -25,7 +25,7 @@ url                      : "0xMikiko.github.io" # the base hostname & protocol f
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/images/SitePics/logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/images/SitePics/logo.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 170
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Duong Quang Minh"
+  name             : "0xMikiko"
   avatar           : /assets/images/SitePics/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "SOC Tier 2"
   location         : "VietNam"
@@ -105,7 +105,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/0xMikiko"
-
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discordapp.com/users/407054069853847562"
 
 # Site Footer
 footer:
