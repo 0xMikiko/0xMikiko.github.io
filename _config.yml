@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my site"
+title                    : "MY Hackmd Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "0xMikiko"
 description              : "Digital Forensics - Reverse Engineering - Malware Analysis"
-url                      : "0xMikiko.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://hackmd.io/@0xMikiko/MainWriteups" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "0xMikiko"
   avatar           : /assets/images/SitePics/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "SOC Tier 2"
+  bio              : "Digital Forensics - Reverse Engineering - Malware Analysis"
   location         : "VietNam"
   email            :
   links:
