@@ -1,5 +1,5 @@
 ---
-title: "Cyber Defenders: BlackEnergy"
+title: "Cyber Defenders: CBBH"
 classes: wide
 header:
   teaser: /assets/images/CTF-WriteUp/BlackEnergy/Capture.PNG
